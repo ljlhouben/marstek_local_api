@@ -1,3 +1,22 @@
+# Marstek Energy Storage - Home Assistant Integration (Proof of Concept)
+
+![Status: Archived](https://img.shields.io/badge/status-archived-lightgrey)
+
+⚠️ **Project Discontinued / No Longer Maintained**
+
+This repository is **no longer actively maintained or developed**.  
+I have decided to discontinue further development and will **not provide support or updates**.  
+The integration may still work and can be used or forked by others, but **I do not guarantee compatibility or functionality**, especially with future versions of Home Assistant.
+
+If you’re interested in continuing the project, feel free to fork this repository and build upon it.  
+Many thanks to everyone who tested, contributed, or provided feedback — it was much appreciated! 🙏
+
+---
+
+*(Original README content continues below…)*
+
+
+
 # Marstek Energy Storage -- Home Assistant Custom Integration (Proof of Concept)
 
 IMPORTANT: Please note that I´m not a programmer. This Home Assistant
