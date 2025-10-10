@@ -13,10 +13,6 @@ Many thanks to everyone who tested, contributed, or provided feedback — it was
 
 ---
 
-*(Original README content continues below…)*
-
-
-
 # Marstek Energy Storage -- Home Assistant Custom Integration (Proof of Concept)
 
 IMPORTANT: Please note that I´m not a programmer. This Home Assistant
